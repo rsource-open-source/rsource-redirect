@@ -1,3 +1,3 @@
 return function()
-	print("Helalo, world!")
+	print('Helalo, world!')
 end
