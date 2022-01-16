@@ -5,4 +5,8 @@
 /*.rbxlx.lock
 /*.rbxl.lock
 
+# Api Key (Confidential)
 src/server/apikey.lua
+
+# Wally Packages
+Packages

@@ -5,7 +5,7 @@ version = "0.0.2"
 license = "AFL-3.0"
 authors = ["insyri", "dowoge", "aidan9382"]
 realm = "shared"
-registry = "https://github.com/rsource-open-source/rsource-redirect"
+registry = "https://github.com/upliftgames/wally-index"
 include = ["src"]
 
 [dependencies]
