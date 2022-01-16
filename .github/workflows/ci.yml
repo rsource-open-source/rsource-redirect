@@ -40,3 +40,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+#  Foreman:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: Roblox/setup-foreman@v1
+#      with:
+#        token: ${{ secrets.GITHUB_TOKEN }}
+#

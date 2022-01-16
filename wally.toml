@@ -1,0 +1,12 @@
+[package]
+name = "rsource-open-source/rsource-redirect"
+description = "[unimplemented]"
+version = "0.0.2"
+license = "AFL-3.0"
+authors = ["insyri", "dowoge", "aidan9382"]
+realm = "shared"
+registry = "https://github.com/rsource-open-source/rsource-redirect"
+include = ["src"]
+
+[dependencies]
+roact = "roblox/roact@1.4.2"
