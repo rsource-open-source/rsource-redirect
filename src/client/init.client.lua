@@ -40,6 +40,7 @@ local interface = Roact.createElement('ScreenGui', {
 	}, {
 		text = Roact.createElement('TextLabel', {
 			Position = UDim2.new(0.5, 0, 0.5, 0),
+			AnchorPoint = Vector2.new(0.5, 0.5),
 			BackgroundColor3 = rsource_colors('bluish'),
 			BorderSizePixel = 2,
 			BorderColor3 = rsource_colors('darker'),
